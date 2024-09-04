@@ -1,0 +1,15 @@
+.card{
+    width:4rem;
+    height: 4rem;
+    border:0.063rem solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    border-radius: 10%;
+    background-color: #ffc107;
+
+
+
+
+}
